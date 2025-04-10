@@ -85,7 +85,7 @@ public class Hotel {
         }
     }
 
-    // Mostrar matriz final en consola usando for y eso sería todo, pero antes hay que declarar las variables en 0
+   
     //Para hacer los cálculos
     public void mostrarResumenFinal() {
         System.out.println("\n--- Estado final del hotel ---\n");
